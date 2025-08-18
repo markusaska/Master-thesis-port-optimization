@@ -3,7 +3,7 @@ The repository contains **code, test instances, and sample outputs** from my mas
 
 &nbsp;
 &nbsp;
-⚙️ **src**
+⚙️ **src:**
   Python source code:
 - `model.py` – Optimization model  
 - `data_loader.py` – Data import and preprocessing  
@@ -13,13 +13,13 @@ The repository contains **code, test instances, and sample outputs** from my mas
 
 &nbsp;
   
-💿 **testData**
+💿 **testData:**
 Excel files with all test instances used in the experiments  
 
 &nbsp;
  
 
-📑 **output**
+📑 **output:**
 Sample Excel outputs and generated plots for selected runs
 
 &nbsp;
