@@ -4,7 +4,7 @@ The repository contains **code, test instances, and sample outputs** from my mas
 &nbsp;
 &nbsp;
 ⚙️ **src:**
-  Python source code:
+Python source code
 - `model.py` – Optimization model  
 - `data_loader.py` – Data import and preprocessing  
 - `test.py` – Driver script (loads data, runs model, and orchestrates execution)  
