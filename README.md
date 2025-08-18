@@ -1,22 +1,24 @@
 # Repository for TIØ4900 - Financial Engineering, Master's Thesis, Norwegian University of Technology and Science
-All files related to my Master's Thesis
+The repository contains **code, test instances, and sample outputs** from my master’s thesis.  
 
-📂 **src**  
+⚙️ **src**  
 Python source code:  
 - `model.py` – Optimization model  
 - `data_loader.py` – Data import and preprocessing  
-- `test.py` – Example driver script (loads data, runs model, and orchestrates execution)  
+- `test.py` – Driver script (loads data, runs model, and orchestrates execution)  
 - `results.py` – Writes optimization results to Excel output files  
-- `plots.py` – Utilities for producing figures from results  
+- `plots.py` – Utilities for producing figures from results
 
-📂 **data**  
-Excel input files (test instances) used to run the model.  
+  
+💿 **testData**
+Excel files with all test instances used in the experiments  
+ 
 
-📂 **output**  
-Example solution files (Excel) generated from running the model on test instances.  
+📑 **output**
+Sample Excel outputs and generated plots for selected runs
 
 ---
 
 📝 **Notes**  
-- The repository contains **code, test instances, and sample outputs**, but not the final results used in the thesis.  
+- The repository contains **code, test instances, and sample outputs**.  
 - The full mathematical model and methodology are documented in the thesis.  
