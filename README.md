@@ -14,13 +14,12 @@ Python source code
 &nbsp;
   
 💿 **testData:**
-Excel files with all test instances used in the experiments  
-
+Excel files with some of the test instances used in the thesis
 &nbsp;
  
 
 📑 **output:**
-Sample Excel outputs and generated plots for selected runs
+Excel outputs for selected runs
 
 ---
 
