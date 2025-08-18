@@ -22,11 +22,7 @@ Excel files with all test instances used in the experiments
 📑 **output:**
 Sample Excel outputs and generated plots for selected runs
 
-&nbsp;
-
 ---
-
-&nbsp;
 
 📝 **Notes**  
 - The repository contains **code, test instances, and sample outputs**.  
