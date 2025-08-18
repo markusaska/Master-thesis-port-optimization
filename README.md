@@ -11,7 +11,6 @@ Python source code
 - `results.py` – Writes optimization results to Excel output files  
 - `plots.py` – Utilities for producing figures from results
 
-&nbsp;
   
 💿 **testData:**
 Excel files with some of the test instances used in the thesis
