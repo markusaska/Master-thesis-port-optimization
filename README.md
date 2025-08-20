@@ -11,6 +11,11 @@ Python source code
 - `results.py` – Writes optimization results to Excel output files  
 - `plots.py` – Utilities for producing figures from results
 
+
+🛠️ **dataGeneration**  
+- **elPrices** – Script and CSV files for electricity price data  
+- **demandSheets** – Script and an example Excel file for fuel demand data (rationale in script header)  
+&nbsp;
   
 💿 **testData:**
 Excel files with some of the test instances used in the thesis
